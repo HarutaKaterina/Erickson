@@ -1,0 +1,278 @@
+html,
+body {
+  height: 100%;
+  font-family: "Playfair Display", serif;
+}
+
+.logo {
+  position: absolute;
+  width: 127px;
+  height: 120px;
+  left: 50px;
+  top: 15px;
+}
+
+.intro {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #494949;
+}
+
+.btn {
+  background: #f1592a;
+  font-size: 16px;
+  position: absolute;
+  right: 45px;
+  top: 79px;
+}
+
+.main {
+  margin: auto;
+  margin-top: 80px;
+  width: 50%;
+}
+
+.main .first {
+  font-weight: 600;
+  line-height: 32.76px;
+  color: #0c0c0c;
+  font-size: 26px;
+  margin-top: 120px;
+}
+
+.main .second {
+  color: #f1592a;
+  line-height: 32.76px;
+  margin-bottom: 10px;
+  font-size: 26px;
+}
+
+.main .third {
+  text-transform: uppercase;
+  font-weight: 600;
+  line-height: 21px;
+  color: #0c0c0c;
+  margin-bottom: 40px;
+}
+
+.main .fourth {
+  line-height: 21px;
+  color: #0c0c0c;
+  margin-top: 20px;
+}
+
+.container #card1 {
+  position: absolute;
+  width: 227px;
+  height: 230px;
+  left: 250px;
+  top: 550px;
+}
+
+.container #card1 .text1 {
+  position: absolute;
+  width: 114px;
+  height: 42px;
+  left: 45px;
+  top: 120px;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container #card1 #icon1 {
+  position: absolute;
+  width: 46.15px;
+  height: 43.42px;
+  left: 80px;
+  top: 60px;
+}
+
+.container #card2 {
+  position: absolute;
+  width: 227px;
+  height: 230px;
+  left: 520px;
+  top: 550px;
+}
+
+.container #card2 .text2 {
+  position: absolute;
+  width: 131px;
+  height: 28px;
+  left: 40px;
+  top: 120px;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container #card2 #icon2 {
+  position: absolute;
+  width: 46.15px;
+  height: 43.42px;
+  left: 80px;
+  top: 60px;
+}
+
+.container #card3 {
+  position: absolute;
+  width: 227px;
+  height: 230px;
+  left: 790px;
+  top: 550px;
+}
+
+.container #card3 .text3 {
+  position: absolute;
+  width: 114px;
+  height: 42px;
+  left: 53px;
+  top: 120px;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container #card3 #icon3 {
+  position: absolute;
+  width: 46.15px;
+  height: 43.42px;
+  left: 80px;
+  top: 60px;
+}
+
+.container .text4 {
+  position: absolute;
+  width: 359px;
+  height: 34px;
+  right: 155px;
+  top: 251px;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #272727;
+}
+
+.container .btn1 {
+  position: absolute;
+  width: 291px;
+  height: 56.76px;
+  right: 190px;
+  top: 375px;
+  background: #f1592a;
+  border-radius: 50px;
+}
+
+.information {
+  margin-top: 600px;
+  margin-right: 20px;
+}
+
+.information .selector {
+  color: #f1592a;
+  font-weight: bold;
+}
+
+#shadow {
+  background-color: rgba(108, 200, 198, 0.5);
+}
+
+.basic {
+  position: absolute;
+  width: 100%;
+  height: 1199px;
+  left: 0px;
+  top: 1892px;
+  background: #6cc8c6;
+}
+
+.basic #box1 {
+  position: absolute;
+  width: 356px;
+  height: 225px;
+  left: 455px;
+  top: 150px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.basic #box1 img {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  left: 8px;
+  top: 130px;
+}
+
+.basic #box1 .ellipse {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 0px;
+  top: 15px;
+}
+
+.basic #box2 {
+  position: absolute;
+  width: 356px;
+  height: 225px;
+  left: 455px;
+  top: 400px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.basic #box3 {
+  position: absolute;
+  width: 356px;
+  height: 225px;
+  left: 455px;
+  top: 650px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.basic #box4 {
+  position: absolute;
+  width: 356px;
+  height: 225px;
+  left: 455px;
+  top: 900px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+h6 {
+  color: #f1592a;
+  font-weight: 600px;
+  line-height: 17px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+@media (max-width: 780px) {
+  .logo,
+  .intro,
+  .btn {
+    text-align: center;
+  }
+  .main {
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=style.css.map */
